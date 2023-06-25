@@ -1,0 +1,52 @@
+{
+  "atividades": [
+    {
+      "id": 1,
+      "titulo": "Projeto Integrador",
+      "descricao": "Metodologia Scrum e projeto utilização de ChatBots",
+      "periodo": 2
+    },
+    {
+      "id": 2,
+      "titulo": "Logica de Programação",
+      "descricao": "Conceitos basicos de logica de programação",
+      "periodo": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Redes",
+      "descricao": "Conceito de Redes, protocolos e camadas de rede.",
+      "periodo": 2
+    },
+    {
+      "id": 4,
+      "titulo": "Engenharia de Software",
+      "descricao": "Estrutura de dados e softwares",
+      "periodo": 2
+    },
+    {
+      "id": 5,
+      "titulo": "Projeto Integrador",
+      "descricao": "Trabalhando Inteligencia Artificial e base de dados com Kaggle e Grafana",
+      "periodo": 3
+    },
+    {
+      "id": 6,
+      "titulo": "Programação Avançada",
+      "descricao": "Listas, funções recursivas, busca binaria e APIS ",
+      "periodo": 3
+    },
+    {
+      "titulo": "POO- Orientada a Objetos",
+      "descricao": "cachorro quente + 800g de batata frita gratis",
+      "periodo": 3,
+      "id": 7
+    },
+    {
+      "titulo": "Sistemas Operacionais",
+      "descricao": "Conceito de S.O",
+      "periodo": 3,
+      "id": 9
+    }
+  ]
+}
