@@ -56,7 +56,7 @@ namespace ConsoleApp2
             foreach (Vendedor item in vendedor)
             {
 
-                if (item.nome == cpfVendedor)
+                if (item.cpf == cpfVendedor)
                 {
                     Console.WriteLine($"Vendedor '{item.nome}' encontrado. Dados do vendedor:");
                     Console.WriteLine($"CPF : {item.cpf}");
